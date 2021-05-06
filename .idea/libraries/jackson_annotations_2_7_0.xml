@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Jackson/jackson/jackson-annotations-2.7.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jackson/jackson/jackson-core-2.7.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jackson/jackson/jackson-databind-2.7.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jackson/jackson/jackson-dataformat-xml-2.7.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jackson/jackson/jackson-module-jaxb-annotations-2.7.5.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Jackson/jackson/stax2-api-3.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
